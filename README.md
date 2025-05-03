@@ -1,6 +1,48 @@
- HEAD
-﻿# Instagram-mern
-This Instagram clone is made with React, Node, MongoDB .
+# 📸 Instagram Clone App
+
+A full-stack Instagram Clone built with **Node.js**, **Express.js**, **MongoDB**, and **React.js**.  
+This project mimics core Instagram functionalities like user authentication, posts, likes, and comments.
+
+---
+
+## 🚀 Features
+
+- 🧑‍💼 User Authentication (Login & Signup)
+- 🖼️ Post Uploading with Captions
+- ❤️ Like/Unlike Posts
+- 💬 Add & View Comments
+- 🔍 Search Users
+- 🧾 Profile Pages
+- 📱 Responsive Frontend
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**  
+- React.js  
+- Tailwind CSS / CSS Modules  
+- Axios
+
+**Backend**  
+- Node.js  
+- Express.js  
+- MongoDB with Mongoose
+
+**Other Tools**  
+- JWT for authentication  
+- Multer for file upload  
+- Cloudinary (if image hosting is included)
+
+---
+
+## ⚙️ Getting Started
+
+### 🧩 Clone the repo
+```bash
+git clone https://github.com/VISHALKANTH2005/Instagram-clone-app.git
+cd Instagram-clone-app
+
 
 
 ## Prerequisites
