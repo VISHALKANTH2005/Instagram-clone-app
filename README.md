@@ -1,3 +1,4 @@
+ HEAD
 ﻿# Instagram-mern
 This Instagram clone is made with React, Node, MongoDB .
 
@@ -70,3 +71,6 @@ $ npm start
 <img src="./images/chat.png">
 <img src="./images/explore.png">
 <img src="./images/profile.png">
+=======
+# Instagram-clone-app
+>>>>>>> 8bac82c966cf89c614809bb6f2ab0b67ea31d2fc
